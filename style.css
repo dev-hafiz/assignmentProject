@@ -82,5 +82,33 @@ a.link-portfolio {
 .food-head-sec p {
     font-family: 'Poppins';
     font-size: 15px;
-    margin-bottom: 16px;
+    margin-bottom: 47px;
+}
+
+.flex-card-wrapper {
+    display: flex;
+}
+
+.singel-card {
+    width: 25%;
+    box-shadow: 10px 10px 40px #aba5a5;
+    padding: 10px;
+    border-radius: 24px;
+    margin-left: 3%;
+    margin-right: 3%;
+}
+
+.singel-card img {
+    width: 100%;
+}
+
+.singel-card h3 {
+    font-family: 'Poppins';
+    font-size: 23px;
+}
+
+.singel-card p {
+    font-family: 'Poppins';
+    font-size: 12px;
+    line-height: 22px;
 }
