@@ -252,3 +252,26 @@ input.btn-submit {
     font-weight: 500;
     font-size: 14px;
 }
+
+#Footer {
+    margin-top: 100px;
+    background: #0b0e17;
+    color: white;
+    text-align: center;
+    padding: 50px 0px;
+}
+
+span.fot-logo {
+    color: #fd4a2d;
+}
+
+#Footer h2 {
+    font-family: 'Poppins';
+    font-size: 26px;
+    letter-spacing: .3px;
+}
+
+#Footer p {
+    font-family: 'Poppins';
+    color: #464646;
+}
