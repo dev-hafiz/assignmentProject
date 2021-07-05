@@ -20,7 +20,7 @@ h1{
 
 .faxible-container{
     display: flex;
-    margin-bottom: 80px;
+    margin-bottom: 100px;
 
 }
 .half-width{
@@ -111,4 +111,34 @@ a.link-portfolio {
     font-family: 'Poppins';
     font-size: 12px;
     line-height: 22px;
+}
+
+.social-singel-item h2 {
+    font-family: 'Poppins';
+    font-size: 35px;
+    color: #010113;
+}
+
+.social-singel-item .item-spn {
+    font-family: 'Poppins';
+    letter-spacing: .6px;
+    font-size: 11px;
+    color: #00000a;
+    display: block;
+    margin-top: -33px;
+}
+
+.singel-item-wrapper {
+    display: flex;
+    width: 93%;
+    margin: 0 auto;
+    box-shadow: 10px 10px 30px #a7a3a3;
+    margin-bottom: 20px;
+    padding-bottom: 30px;
+    border-radius: 21px;
+}
+
+.social-singel-item {
+    margin: 0% 3%;
+    padding: 0px 115px;
 }
